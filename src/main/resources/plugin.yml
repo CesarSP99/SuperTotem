@@ -1,7 +1,7 @@
 name: SuperTotem
 version: '${project.version}'
 main: com.cesarsp.supertotem.SuperTotem
-api-version: 1.16
+api-version: 1.13
 prefix: SuperTotem
 authors: [ CesarSP ]
 description: A plugin that adds the abilty to revive using a totem without needing to hold it in your hand
