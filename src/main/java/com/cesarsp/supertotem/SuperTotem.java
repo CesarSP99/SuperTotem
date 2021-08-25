@@ -1,6 +1,6 @@
 package com.cesarsp.supertotem;
 
-import com.cesarsp.supertotem.Listerners.DeathListener;
+import com.cesarsp.supertotem.Listeners.DeathListener;
 import org.bukkit.plugin.java.JavaPlugin;
 import java.util.logging.Logger;
 

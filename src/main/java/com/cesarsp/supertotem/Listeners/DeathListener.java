@@ -1,4 +1,4 @@
-package com.cesarsp.supertotem.Listerners;
+package com.cesarsp.supertotem.Listeners;
 
 import org.bukkit.EntityEffect;
 import org.bukkit.Material;
